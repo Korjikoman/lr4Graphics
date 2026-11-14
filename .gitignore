@@ -1,0 +1,7 @@
+*.pdf
+*.docx
+.idea/
+.vscode/
+idea/
+vscode/
+.gradle/
